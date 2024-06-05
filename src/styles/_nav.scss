@@ -1,0 +1,16 @@
+nav {
+  background-color: #0f0844;
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 2rem;
+
+    li {
+      padding: 0.5rem 1rem;
+      a {
+        font-size: 1.25rem;
+        color: white;
+      }
+    }
+  }
+}
