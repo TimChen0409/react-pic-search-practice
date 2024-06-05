@@ -15,7 +15,7 @@ $ npm install
 2. Continue with this command after finishing installing all the packages
 
 ```bash
-$ npm run dev
+$ npm run start
 ```
 
 3. Open your browser and navigate to the following path: `http://localhost:3000/`
