@@ -2,6 +2,8 @@
 
 practice building a react app with using Pexels API, Axios and React-Router to created an image search.
 
+### 👀 Demo: https://react-pic-search-practice.netlify.app/
+
 ## 🚀 Run locally
 
 1. Open the project and type the following command in your terminal
